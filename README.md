@@ -22,9 +22,10 @@
   - ⚡ No meu tempo livre, adoro jogar, além de assistir filmes! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas.
 </details>
 
-<!-- Links -->
+<!-- Links 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ian.ics/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-sebastiao-da-silva-a4996326b/)
+-->
 
 
 ### 🤖 Linguagens e Tecnologias
